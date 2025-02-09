@@ -1,6 +1,6 @@
 # Stock Dashboard App
 
-Features should be:
+Features:
 
 1) view stock data of any company on hourly, daily, history of months, years (depending on how much the free version can provide)
 2) search stock by symbol (within the constraints of the free version of the market ticker API)
